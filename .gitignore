@@ -2,3 +2,10 @@
 /works/
 /local/
 /tmp/
+
+# Dependencies and generated output
+/node_modules/
+/dist/
+/test-results/
+/playwright-report/
+/tsconfig.tsbuildinfo
